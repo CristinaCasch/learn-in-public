@@ -1,0 +1,34 @@
+template: "online-cv"
+skin: "pink"
+
+basic_info:
+
+name: Cristina Castro Chacón
+age: 19 years old
+ID: 11824-166
+
+email: cristina.castrochacon@ucr.ac.cr
+phone: 8952-1281
+github: CristinaCasch
+
+languages:
+ - idiom: English
+   level: B2
+
+Education: 
+
+- Bachillerato. 2013-2018
+
+- Inglés para servicio a la clientela.
+ 2019-2020
+
+- Speak english professionally in 
+person, oline and on the phone. 2020
+
+- Technical Support Fundamentals. 2020
+
+- Herramientas de ofimática (Microsoft
+ Word, Excel, Power Point) 2020
+
+- ¿Cómo persuadir? Jugando con 
+palabras, imágenes y números. 2020
